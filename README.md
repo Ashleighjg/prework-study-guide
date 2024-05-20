@@ -8,11 +8,11 @@ Provide a short description explaining the what, why, and how of your project. U
 -I built this project to get an initial peek into the world of coding in a project format.
 - This webpage resolved the issue of not having a universally accessable location to store my coding bootcamp prework notes.
 - I learned version control, Github, Javascript, CSS, and HTML as outlined below:
-    <li> •	 HTML is the structure and the meaning of each element on the page. HTML, CSS, and JavaScript are the three core languages of the web.</li> 
-    <li> •	Cascading Style Sheets, or CSS, give the content style; defining the colors, aesthetics, visual layout, and organization of the page.</li> 
-    <li> •	JavaScript provides logic to the wepage and allows user interactivity.</li> 
-    <li> •	Markdown (.md) is a way to write content that converts plain text to formatted text when we want to quickly and easily create documentation about the websites you work on.</li> 
-    <li> •	Git is a free, open source version control system that allows developers to collaborate on projects without overwriting each other's work</li>
+    <li>HTML is the structure and the meaning of each element on the page. HTML, CSS, and JavaScript are the three core languages of the web.</li> 
+    <li>Cascading Style Sheets, or CSS, give the content style; defining the colors, aesthetics, visual layout, and organization of the page.</li> 
+    <li>JavaScript provides logic to the wepage and allows user interactivity.</li> 
+    <li>Markdown (.md) is a way to write content that converts plain text to formatted text when we want to quickly and easily create documentation about the websites you work on.</li> 
+    <li>Git is a free, open source version control system that allows developers to collaborate on projects without overwriting each other's work</li>
     
 
 
